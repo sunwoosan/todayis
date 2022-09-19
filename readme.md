@@ -1,3 +1,4 @@
 # updating
 
-안녕! 오늘 한 번 해보려고!
+안녕! 
+html & css are so much fun!
